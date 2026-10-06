@@ -1,0 +1,23 @@
+quantum-apex-bot/
+│
+├── bot/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── market.py
+│   ├── strategy.py
+│   ├── risk.py
+│   └── execution.py
+│
+├── backtest/
+│   └── backtest.py
+│
+├── data/
+│   └── trades.csv
+│
+├── .github/
+│   └── workflows/
+│       └── bot.yml
+│
+├── config.json
+├── requirements.txt
+└── README.md
